@@ -1,18 +1,21 @@
 # CTF Challenges
 
-A collection of CTF challenges I've written as part of my work 
-with BroncoSec at Santa Clara University.
+A collection of CTF challenges I've authored as part of my work
+with BroncoSec, ACM's Cybersecurity SIG @ Santa Clara University
 
-## Competitions
+## BroncoCTF 2026 Challenges
 
-| Competition | Year | Categories |
-|---|---|---|
-| BroncoCTF 2026 | 2026 | Crypto, OSINT, Reversing, Web |
+- 🔐 Crypto — Grandma's Secret
+- 🔍 OSINT — Crowed Trip, Online Over-Sharer
+- 🐱 Reversing — Cat Simulator
+- 🌐 Web — Lovely Login
 
 ## About
-I'm a CS junior at SCU passionate about cybersecurity. I co-founded 
-WiCyS at SCU and help run BroncoSec, where I organize CTF 
-competitions and create challenges to help students learn 
-cybersecurity skills hands-on.
+
+I'm a CS student at SCU passionate about cybersecurity. I co-founded
+WiCyS at SCU and help run BroncoSec, where I organize CTF
+competitions and help students learn
+cybersecurity skills hands-on. 
+Making these challenges was so fun!
 
 More competitions and challenges coming soon!
