@@ -10,12 +10,3 @@ with BroncoSec, ACM's Cybersecurity SIG @ Santa Clara University
 - 🐱 Reversing — Cat Simulator
 - 🌐 Web — Lovely Login
 
-## About
-
-I'm a CS student at SCU passionate about cybersecurity. I co-founded
-WiCyS at SCU and help run BroncoSec, where I organize CTF
-competitions and help students learn
-cybersecurity skills hands-on. 
-Making these challenges was so fun!
-
-More competitions and challenges coming soon!
